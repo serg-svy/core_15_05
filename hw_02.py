@@ -48,4 +48,3 @@ print(search_results)
 # Поиск статей, содержащих ключевое слово "ocean" без учета регистра
 search_results = find_articles("ocean", letter_case=False)
 print(search_results)
- 
